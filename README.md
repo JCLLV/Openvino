@@ -1,10 +1,6 @@
 🧠 Chat LLM Local con OpenVINO + Carga de PDFs + Búsqueda en Internet
 Versión Mayo 2025 — Autor: JC Llanos V.
 
-📧 jcllanosv@hotmail.com
-
-🔗 https://www.linkedin.com/in/jcllanosv/
-
 🚀 Descripción General
 
 Este proyecto implementa un chat conversacional local potenciado por modelos LLM optimizados con OpenVINO, permitiendo:
